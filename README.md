@@ -1,9 +1,9 @@
 # auto-ed_texti824-_sch3duL3d
 
-# Main aim:
+## Main aim:
 - Sending automated text messages via Twilio
 
-# Functionality:
+## Functionality:
 - text massages are diverted into three types (randomly chosen text from type);
 - text messages are scheduled on required time;
 - 
