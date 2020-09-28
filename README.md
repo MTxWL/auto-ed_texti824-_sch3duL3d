@@ -10,6 +10,6 @@
 - text messages are scheduled and send at required time;
 - text is send via [Twillio](https://www.twilio.com/)
 
-pip install twilio
+*pip install twilio*
 
 Requirements: Python 3.5+, libraries: random, schedule, time 
